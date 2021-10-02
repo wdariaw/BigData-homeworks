@@ -1,6 +1,6 @@
 # Задача №1. Нахождение интеграла с использованием MPI
 
-## $`\int\limits_0^1\frac{4}{1+x^2}dx`$
+## <img src="https://render.githubusercontent.com/render/math?math=\int\limits_0^1\frac{4}{1+x^2}dx">
 
 ### Постановка задачи: решить определенный интеграл методом трапеций.
 
